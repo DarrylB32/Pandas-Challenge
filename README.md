@@ -61,7 +61,7 @@ The final report includes the following:
 * Total Purchase Value
 
 ### Most Popular Items
-![most_popular_items](ReadMe_Resources/most_popular_items)
+![most_popular_items](ReadMe_Resources/most_popular_items.png)
 
 * Item ID
 
@@ -74,7 +74,7 @@ The final report includes the following:
 * Total Purchase Value
 
 ### Most Profitable Items
-![most_profitable_items](ReadMe_Resources/most_profitable_items)
+![most_profitable_items](ReadMe_Resources/most_profitable_items.png)
 
 * Item ID
 
