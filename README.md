@@ -94,7 +94,7 @@ The final report includes the following:
 
 ### User Instructions
 
-* Clone the repository: git clone https://github.com/DarrylB32/Pandas-Video_Game_Data_Analysis
+* Clone the repository: git clone https://github.com/DarrylB32/Pandas-Video_Game_Data_Analysis.git 
 
 * Open and execute [Game_Analysis](Game_Analysis.ipynb) file.
 
